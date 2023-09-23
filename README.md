@@ -7,7 +7,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a Technical Lead at DXTR.ASIA
+- :school: I am a Technical Lead at MIFX
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :nerd_face: Always `learning new things`
